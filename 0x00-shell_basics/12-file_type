@@ -1,3 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 echo "/tmp/iamafile:" 
+=======
+>>>>>>> 66be570cafd7942684714fecb3d19efff9781855
 file -b /tmp/iamafile
